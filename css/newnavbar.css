@@ -1,0 +1,20 @@
+.navbar{
+    background-color: black;
+}
+.navbar .logo{
+    width: 160px;
+}
+#navbarDropdownMenuLink{
+    color: white;
+    margin-left: 880px;
+}
+.dropdown-menu{
+    margin-left: 880px;
+    background-color: black;
+}
+.dropdown-item{
+    color: white;
+}
+.imgnav{
+    margin-left: 25px;
+}
